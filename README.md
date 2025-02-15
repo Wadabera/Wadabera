@@ -64,7 +64,7 @@
       <br>
       📂 <strong>Personal Portfolio Website</strong> <br>
       🎯 A personal website to showcase my skills and projects.<br>
-      🔗 <a href="https://github.com/yourusername/project3">View Project</a>
+      🔗 <a href="https://github.com/Wadabera/my-portfolio-">View Project</a>
     </td>
   </tr>
 </table>
