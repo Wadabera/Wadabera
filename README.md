@@ -1,10 +1,10 @@
 <!-- Banner with Profile Image -->
 <h1 align="center">Hi there, I'm <strong>Wada Abera</strong> 👋</h1>
 <p align="center">
-  <img src="https://github.com/Wadabera/myphoto/blob/main/wada%20img.jpg" width="500%" height="500" style="border-radius: 50%;">
+  <img src="https://github.com/Wadabera/myphoto/blob/main/wada%20img.jpg" width="300px" style="border-radius: 50%;">
 </p>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
   🎓 <strong>Third-Year Software Engineering Student</strong> at <strong>Jimma University</strong> <br>
   💻 Passionate about Web Development, AI, and Software Engineering <br>
   🚀 Always learning, coding, and improving my skills! <br>
@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 ### ⚙️ **Back-End & Programming**
@@ -46,7 +47,7 @@
       <br>
       📂 <strong>Class Attendance Management</strong> <br>
       🎯 A system for tracking student attendance and courses.<br>
-      🔗 <a href="https://github.com/yourusername/project1">View Project</a>
+      🔗 <a href="https://github.com/Wadabera/attendance-management">View Project</a>
     </td>
   </tr>
   <tr>
@@ -55,7 +56,7 @@
       <br>
       📂 <strong>Baby Vaccination Management</strong> <br>
       🎯 A platform for managing baby vaccination records.<br>
-      🔗 <a https://github.com/Wadabera/2017project/tree/main/newWebproject">View Project</a>
+      🔗 <a href="https://github.com/Wadabera/2017project/tree/main/newWebproject">View Project</a>
     </td>
   </tr>
   <tr>
@@ -73,22 +74,20 @@
 
 ## 📊 **GitHub Stats & Activity**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wadabera&show_icons=true&count_private=true&theme=tokyonight">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight">
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wadabera&theme=tokyonight">
 </p>
 
 ---
 
 ## 🌎 **Let's Connect**
 <p align="center">
-  📧 Email: <a href="mailto:wada@example.com">wada@example.com</a> <br>
-  🌍 <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>  
-  🐦 <a href="https://twitter.com/yourusername">Twitter</a>  
+  📧 Email: <a href="mailto:waadaaabarraa@gmail.com">email</a> <br>
+  🌍 <a href="https://www.linkedin.com/in/Wadabera">LinkedIn</a>  
+  🐦 <a href="https://twitter.com/Wadabera">Twitter</a>  
 </p>
 
 ---
 
-🔥 **Thanks for visiting my profile!** If you like my work, don't forget to ⭐ my repositories and follow me! 😊
+🔥 **Thanks for visiting my profile!** If you like my work, don't forget to ⭐ my repositories and follow me! 😊  
