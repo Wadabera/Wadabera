@@ -79,8 +79,10 @@
 ## 🔥 Contribution Activity (Self-Hosted)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wadabera/github-stats/output/snake.svg" />
+ <img src="https://raw.githubusercontent.com/wadabera/github-stats/main/output/snake.svg" />
 </p>
+
+
 
 ---
 
