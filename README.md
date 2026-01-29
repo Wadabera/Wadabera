@@ -72,7 +72,7 @@
   `php • MySQL `
 
 - 🌐 **Personal Portfolio**  
-  👉 https://wadaaberapersonalportifolio.netlify.app/
+  👉 https://wadaaberachala.netlify.app/
 
 ---
 
