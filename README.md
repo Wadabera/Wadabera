@@ -1,112 +1,104 @@
-<!-- Hero Section -->
-<h1 align="center">Hi 👋, I'm <strong>Wada Abera</strong></h1>
-<h3 align="center">🚀 Professional Full-Stack Web Developer | Software Engineering Student</h3>
+<!-- ===================== -->
+<!--  ELITE ANIMATED HERO  -->
+<!-- ===================== -->
 
 <p align="center">
-  <img src="https://github.com/Wadabera/myphoto/blob/main/wada%20img.jpg" width="180" style="border-radius:50%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Wada+Abera;Professional+Full-Stack+Developer;Backend-Focused+Engineer;Node.js+%7C+NestJS+%7C+MongoDB" />
 </p>
 
 <p align="center">
-  <a href="https://wadaaberapersonalportifolio.netlify.app/"><strong>🌐 Portfolio</strong></a> •
-  <a href="https://www.linkedin.com/in/Wadabera"><strong>LinkedIn</strong></a> •
-  <a href="mailto:waadaaabarraa@gmail.com"><strong>Email</strong></a>
+  <img src="https://github.com/wadabera.png" width="160" style="border-radius:50%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wadabera&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://wadaaberachala.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/wada-abera">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:waadaaabarraa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 Who I Am
 
-- 🎓 **Fourth-Year Software Engineering Student** at **Jimma University**
-- 💼 **Professional Full-Stack Web Developer**
-- ⚡ Strong experience building **scalable backend systems**
-- 🧠 Passionate about **clean architecture, APIs, and real-world systems**
-- 🌱 Currently working with **NestJS, MongoDB, and system design**
+🎓 4th-Year Software Engineering Student  
+💻 Professional Full-Stack Web Developer  
+⚙️ Backend-first, architecture-driven  
+🚀 Building real, scalable systems — not demos
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Core Skills (Visual)
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,nestjs,mongodb,mysql,docker,git,github" />
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+---
+
+## 🧠 What I Build
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/backend-development.png"/>
+  <img src="https://img.icons8.com/fluency/96/api.png"/>
+  <img src="https://img.icons8.com/fluency/96/database.png"/>
+  <img src="https://img.icons8.com/fluency/96/cloud.png"/>
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode" />
+<p align="center">
+  <strong>Scalable Backends • Clean APIs • Database-Driven Systems</strong>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🗂️ Project & Task Management System
-**Tech:** NestJS · MongoDB · React  
-- Role-based authentication
-- Project & task tracking
-- Team dashboards
-- RESTful API architecture
+- 🗂 **Chella Api**  
+  `NestJS • MongoDB • RBAC • REST APIs`
 
-🔗 *Private / Academic Project*
+- 🧑‍🎓 **Class Attendance Management System**  
+  `Node.js • Express • MySQL`
 
----
+- 💉 **Baby Vaccination Management System**  
+  `php • MySQL `
 
-### 🧑‍🎓 Class Attendance Management System
-**Tech:** Node.js · Express · MySQL  
-- Student & instructor modules
-- Course-based attendance
-- Admin reporting
+- 🌐 **Personal Portfolio**  
+  👉 https://wadaaberapersonalportifolio.netlify.app/
 
 ---
 
-### 💉 Baby Vaccination Management System
-**Tech:** Node.js · MongoDB  
-- Vaccination scheduling
-- Health record tracking
-- Secure data handling
+## 🔥 Contribution Activity (Self-Hosted)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wadabera/github-stats/output/snake.svg" />
+</p>
 
 ---
 
-### 🌐 Personal Portfolio Website
-**Tech:** React · Tailwind CSS  
-🔗 **Live:** https://wadaaberapersonalportifolio.netlify.app/
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wadabera&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
-## 🧱 Typical Backend Project Structure (NestJS)
+## 🧱 Backend Architecture Style
 
-```bash
+```txt
 src/
- ├── auth/
- │   ├── auth.controller.ts
- │   ├── auth.service.ts
- │   └── auth.module.ts
- ├── users/
- ├── projects/
- ├── tasks/
- ├── common/
- │   ├── guards/
- │   ├── decorators/
- │   └── filters/
- ├── app.module.ts
- └── main.ts
+ ├─ auth/        🔐
+ ├─ users/       👥
+ ├─ projects/    📂
+ ├─ tasks/       ✅
+ ├─ common/      🧩
+ └─ main.ts      🚀
